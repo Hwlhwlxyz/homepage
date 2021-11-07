@@ -1,0 +1,38 @@
+{
+    "tabGroups": [{
+        "tabTitle": "item1",
+        "tabContent": [{
+            "title": "Group 1",
+            "links": [{
+                "url": "https://www.google.com",
+                "name": "google"
+            }, {
+                "url": "https://www.bing.com",
+                "name": "bing"
+            }]
+        }, {
+            "title": "Group 2",
+            "links": [{
+                "url": "https://www.yahoo.com/",
+                "name": "yahoo"
+            }
+        ]
+        }]
+    },
+    {
+        "tabTitle": "item 2",
+        "tabContent": [{
+            "title": "Group 3",
+            "links": [{
+                "url": "https://duckduckgo.com/",
+                "name": "duckduckgo"
+            }]
+        }, {
+            "title": "Group 4",
+            "links": [{
+                "url": "https://www.youtube.com",
+                "name": "youtube"
+            }]
+        }]
+    }]
+}
